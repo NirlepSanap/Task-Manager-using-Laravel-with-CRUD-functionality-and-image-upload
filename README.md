@@ -6,6 +6,7 @@ A simple **Task Manager** web application built using **Laravel** that supports 
 ![Laravel Task Manager Screenshot](https://raw.githubusercontent.com/NirlepSanap/Task-Manager-using-Laravel-with-CRUD-functionality-and-image-upload/main/public/screenshot.png)
 
 ---
+Deploy Live link : https://task-manager-using-laravel-with-crud.onrender.com/
 
 ## 🚀 Features
 
